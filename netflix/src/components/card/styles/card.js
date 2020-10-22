@@ -191,7 +191,7 @@ export const Maturity = styled.div`
   border-radius: 15px;
   width: 20px;
   padding: 5px;
-  text-align: center;
+  text-align: left;
   color: white;
   font-weight: bold;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
