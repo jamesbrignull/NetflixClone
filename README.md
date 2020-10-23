@@ -3,14 +3,14 @@
 Completed this as the capstone project to the Scrimba Front-end Developer Career Path, with this part of the path being taught by Karl Hadwen. This was an excellent opportunity to put together a lot of the skills and concepts developed whilst going through the career path into one project that mimics a real-life business service. 
 
 ## Tech & Tools Used
-*React
-*React Router
-*Firebase
-*Styled Components
-*JSX
-*CSS
-*JavaScript
-*Fuse.js
+* React
+* React Router
+* Firebase
+* Styled Components
+* JSX
+* CSS
+* JavaScript
+* Fuse.js
 
 ## Key Takeaways
 *Architecture - I found it incredibly useful to understand how a larger project was designed and put together and how strong architecture underpins everything moving forward. It was also interesting to hear the pros and cons of utilising certain tools, such as styled components. 
